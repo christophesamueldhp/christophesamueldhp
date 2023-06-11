@@ -1,5 +1,5 @@
 ### Hi there 👋
-wave-hello.git
+wave-hello.gif
 <!--
 **christophesamueldhp/christophesamueldhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
