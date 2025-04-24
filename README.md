@@ -4,8 +4,6 @@
 
 Welcome to my GitHub profile! I am passionate about AI and data science, constantly exploring new techniques and technologies in these fields. I love leveraging data to gain insights, solve complex problems, and make informed decisions.
 
-- 🌱 I’m currently a student at **Insititut Teknologi Bandung**
-
 - 💬 Share ideas about **Math, Data, and AI** with me
 
 - 📫 How to reach me **christophesamueldhp@gmail.com**
