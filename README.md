@@ -3,23 +3,24 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<h3 align="center">Data • Math • AI</h3>
+<p align="center">
+  <strong>Data &bull; Math &bull; AI</strong>
+</p>
 
 <p align="center">
-  I enjoy turning data into insights, exploring machine learning ideas, and building practical AI projects.
-  <br/>
+  I enjoy turning data into insights, exploring machine learning ideas, and building practical AI projects.<br/>
   Curious about mathematics, analytics, and intelligent systems.
 </p>
 
 <p align="center">
   <a href="mailto:christophesamueldhp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/christophesamueldhp">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://kaggle.com/mrcsdhp">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
 
@@ -30,7 +31,25 @@
 - Passionate about **Data Science, Machine Learning, and AI**
 - Interested in solving problems with **math-driven and data-driven approaches**
 - Enjoy learning, experimenting, and sharing ideas about **Math, Data, and AI**
-- Reach me at **christophesamueldhp@gmail.com**
+- Reach me at [christophesamueldhp@gmail.com](mailto:christophesamueldhp@gmail.com)
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
 
 ---
 
@@ -44,18 +63,14 @@
 
 ---
 
-## Connect With Me
+## GitHub Stats
 
-<p align="left">
-  <a href="https://linkedin.com/in/christophesamueldhp" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christophesamueldhp" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/mrcsdhp" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mrcsdhp" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=christophesamueldhp&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christophesamueldhp&layout=compact&theme=dark&hide_border=true" height="160"/>
 </p>
 
-<!-- ---
+---
 
 ## Contribution Snake
 
@@ -63,4 +78,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/christophesamueldhp/christophesamueldhp/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/christophesamueldhp/christophesamueldhp/output/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/christophesamueldhp/christophesamueldhp/output/github-snake.svg" />
-</picture> -->
+</picture>
