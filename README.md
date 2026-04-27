@@ -35,7 +35,7 @@
 
 ---
 
-## Tech Stack
+<!-- ## Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="32" height="32"/>
@@ -51,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="32" height="32"/>
 </p>
 
----
+--- -->
 
 ## What I Like Working On
 
@@ -61,7 +61,7 @@
 - Mathematical problem solving
 - Interactive dashboards and web apps
 
----
+<!-- ---
 
 ## Contribution Snake
 
@@ -69,4 +69,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/christophesamueldhp/christophesamueldhp/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/christophesamueldhp/christophesamueldhp/output/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/christophesamueldhp/christophesamueldhp/output/github-snake.svg" />
-</picture>
+</picture> -->
